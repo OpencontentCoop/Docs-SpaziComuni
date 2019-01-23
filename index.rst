@@ -19,8 +19,52 @@ Gli utenti interni del Comune inseriscono nel sistema i dati relativi a spazi e 
 
 Il cittadino interessato trova l’elenco delle sale e dell’attrezzatura, e può verificarne la disponibilità. Trova una sala (a pagamento) che fa al caso suo, e procede con l’operazione di prenotazione (previa registrazione). Il sistema notifica l’operatore responsabile di quella sala riceve una notifica dell’avvenuta richiesta di prenotazione. Accede al sistema e verifica che ci siano tutte le condizioni per confermare la prenotazione. In caso affermativo, conferma la prenotazione temporaneamente, in attesa del pagamento. Appena il pagamento va a buon fine, l’operatore viene notificato, sblocca la prenotazione, e contatta il cittadino per accordarsi sulla consegna delle chiavi.
 
+.. _h476026776751382b41292e2e437c:
+
+Visualizzazione di spazi e attrezzature
+=======================================
+
+La attrezzature sono visualizzate su una lista, con la possibilità di filtrare per disponibilità (data e  orario di utilizzo).
+
+\ |IMG1|\ 
+
+Le sale sono visibili in due modalità:
+
+* \ |STYLE1|\  Le sale  vengono mostrate in una lista. 
+
+* \ |STYLE2|\  Le sale sono rappresentate su una mappa del territorio
+
+In entrambi i casi, è possibile filtrare per disponibilità (data e orario di utilizzo) o per destinazione d’uso.
+
+\ |IMG2|\ 
+
+\ |STYLE3|\ 
+
+\ |IMG3|\ 
+
+\ |STYLE4|\ 
 
 .. bottom of content
 
 
 .. |STYLE0| replace:: **amministrazioni pubbliche**
+
+.. |STYLE1| replace:: **Lista.**
+
+.. |STYLE2| replace:: **Mappa.**
+
+.. |STYLE3| replace:: *Le sale pubbliche mostrate in una lista*
+
+.. |STYLE4| replace:: *Le sale pubbliche mostrate sulla mappa*
+
+.. |IMG1| image:: static/Index_1.png
+   :height: 316 px
+   :width: 624 px
+
+.. |IMG2| image:: static/Index_2.png
+   :height: 388 px
+   :width: 536 px
+
+.. |IMG3| image:: static/Index_3.png
+   :height: 408 px
+   :width: 538 px
