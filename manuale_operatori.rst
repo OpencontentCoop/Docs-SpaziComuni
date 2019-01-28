@@ -26,7 +26,7 @@ In ogni momento, un operatore può controllare le prenotazioni alle sale e attre
 
 \ |IMG2|\ 
 
-Cliccando sull’id di ogni prenotazione, l’operatore finisce nella schermata di gestione della prenotazione stessa, e da lì può effettuare le stesse operazioni descritte nel capitolo precedente.
+Cliccando sull’id (numero identificativo) di ogni prenotazione, l’operatore finisce nella schermata di gestione della prenotazione stessa, e da lì può effettuare le stesse operazioni descritte nel capitolo precedente.
 
 .. bottom of content
 
