@@ -22,10 +22,10 @@ Login
 
 Il login viene effettuato dal form che si trova nella pagina principale, in basso. E’ sufficiente inserire il proprio username e la propria password per accedere al sistema.
 
-.. _h2e25237b62f6f0f486f22a2177d:
+.. _h67782633491416403c282b1b1f131819:
 
-Ricerca di una sala/Attrezzatura
-================================
+Prenotazione di una sala/Attrezzatura
+=====================================
 
 Le sale pubbliche sono immediatamente visibili nella pagina principale. E’ possibile raggiungere in ogni momento l’elenco delle sale e delle attrezzature cliccando sulle voci relative nel menù principale.
 
@@ -79,6 +79,15 @@ Una volta terminata la prenotazione, il sistema presenta un riepilogo. La prenot
 
 \ |IMG5|\ 
 
+.. _h45163113a121223f196b5e4a343558:
+
+Verifica delle proprie prenotazioni
+===================================
+
+In ogni momento, un utente può verificare lo stato di tutte le proprie prenotazioni dalla sezione “le mie prenotazioni” (1). Lì sono visibili tutte le prenotazioni effettuate dall’utente, con i dettagli sulle date e sullo stato (2). Cliccando sull’id (numero identificativo) della prenotazione, si accede ai dettagli della prenotazione stessa.
+
+\ |IMG6|\ 
+
 
 .. bottom of content
 
@@ -101,3 +110,7 @@ Una volta terminata la prenotazione, il sistema presenta un riepilogo. La prenot
 .. |IMG5| image:: static/Manuale_per_i_cittadini_5.png
    :height: 497 px
    :width: 508 px
+
+.. |IMG6| image:: static/Manuale_per_i_cittadini_6.png
+   :height: 202 px
+   :width: 624 px
