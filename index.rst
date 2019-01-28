@@ -44,6 +44,13 @@ In entrambi i casi, è possibile filtrare per disponibilità (data e orario di u
 
 \ |STYLE4|\ 
 
+
+.. toctree:: 
+
+    manuale_operatori.rst
+
+    manuale_cittadini.rst
+
 .. bottom of content
 
 
