@@ -6,47 +6,103 @@ Manuale per i cittadini
 
 Chiunque può visualizzare la lista delle sale e delle attrezzature, e le loro caratteristiche, ma solo gli utenti registrati possono procedere alla prenotazione.
 
-.. _h3f3343395c1963172b212b3277665b1a:
+.. _h414f6d6f514fd4a5e5f354b1879205:
 
-Registrazione utente
-====================
+Visualizza le sale disponibili
+==============================
 
-Per prenotare sale e attrezzature, un utente deve essere registrato al sistema. La registrazione avviene attraverso un form di registrazione dove inserire nome, cognome, indirizzo email e scegliere una password.
-
-Il sistema invia una email all’utente chiedendo di cliccare su un link. In questo modo l’utente può confermare la validità dell’indirizzo email. Una volta terminato il processo di registrazione, il cittadino può procedere alla prenotazione di sale e attrezzature.
-
-.. _h67225980713336a5948137057763a52:
-
-Login
-=====
-
-Il login viene effettuato dal form che si trova nella pagina principale, in basso. E’ sufficiente inserire il proprio username e la propria password per accedere al sistema.
-
-.. _h67782633491416403c282b1b1f131819:
-
-Prenotazione di una sala/Attrezzatura
-=====================================
-
-Le sale pubbliche sono immediatamente visibili nella pagina principale. E’ possibile raggiungere in ogni momento l’elenco delle sale e delle attrezzature cliccando sulle voci relative nel menù principale.
+Le sale pubbliche sono immediatamente visibili nella pagina principale. 
 
 \ |IMG1|\ 
 
-.. _h4977693649686c3bc412fa1443641b:
-
-Elenco delle sale/attrezzature
-------------------------------
-
-L’elenco delle sale e delle attrezzature si presentano allo stesso modo: una lista di elementi con nome, immagine, e breve descrizione. In alto è presente un filtro che consente di ricercare la disponibilità di sale e attrezzature. Per le sale, è possibile filtrare anche per disponibilità d’uso.
-
-Attraverso i pulsanti dedicati è possibile cambiare la visualizzazione tra elenco e mappa. La mappa mostra la posizione geografica di sale e attrezzature.
+È possibile raggiungere in ogni momento l’elenco delle sale anche cliccando sulla voce relativa (“Sale pubbliche”) nel menu principale.
 
 \ |IMG2|\ 
 
-Cliccando su una singola sala/attrezzatura si accede al dettaglio, che mostra tutte le caratteristiche (dimensioni, informazioni sui costi, ...), a anche un calendario con le disponibilità. 
+Le sale sono visibili in due modalità:
+
+* \ |STYLE0|\  Le sale  vengono mostrate in una lista. 
 
 \ |IMG3|\ 
 
+* \ |STYLE1|\  Le sale sono rappresentate su una mappa del territorio
+
+\ |IMG4|\ 
+
+    \ |STYLE2|\ 
+
+Cliccando su una singola sala/attrezzatura si accede al dettaglio, che mostra tutte le caratteristiche (dimensioni, informazioni sui costi, ...) e un calendario con le disponibilità. 
+
+.. _h3f693013b22362c22313267b24b5d:
+
+Filtra le sale per disponibilità e destinazione d’uso
+=====================================================
+
+Sia nel caso della visualizzazione a elenco che a mappa, è possibile filtrare le sale per \ |STYLE3|\  (data e orario di utilizzo) o per \ |STYLE4|\ .
+
+\ |IMG5|\ 
+
+.. _h5a3f315c66312b767162406262f5f14:
+
+Visualizza le attrezzature disponibili
+======================================
+
+Le attrezzature sono immediatamente visibili nella pagina principale. 
+
+\ |IMG6|\ 
+
+È possibile raggiungere in ogni momento l’elenco delle sale anche cliccando sulla voce relativa (“Attrezzatura”) nel menu principale.
+
+La attrezzature sono visualizzate su una \ |STYLE5|\ , con la possibilità di filtrare per disponibilità (data e orario di utilizzo).
+
+\ |IMG7|\ 
+
+\ |STYLE6|\ 
+
+.. _h112c6c6d73721023293351501d7c2c15:
+
+Registrati alla piattaforma
+===========================
+
+\ |IMG8|\ 
+
+Per prenotare sale e attrezzature, devi essere registrato al sistema. La registrazione avviene attraverso un form di registrazione dove devi inserire il tuo nome, cognome, indirizzo email e scegliere una password.
+
+Il sistema ti invierà una email chiedendo di cliccare su un link. 
+
+Clicca sul link e conferma la validità dell’indirizzo email. Una volta terminato il processo di registrazione, potrai procedere alla prenotazione di sale e attrezzature.
+
+.. _h4415848433f221aec1a14347f613e:
+
+Accedi al sistema
+=================
+
+\ |IMG9|\ 
+
+Il login viene effettuato dal form che si trova nella pagina principale, in basso. È sufficiente inserire il proprio username e la propria password per accedere al sistema.
+
+Se hai dimenticato la password puoi richiedere la generazione di una nuova password cliccando sul link “Hai dimenticato la password?” (2).
+
+\ |IMG10|\ 
+
+Inserisci la tua mail (la stessa utilizzata durante la fase di registrazione alla piattaforma), clicca sul pulsante “Genera una nuova password” e controlla la tua casella di posta elettronica. La tua nuova password ti è stata inviata via mail.
+
+.. _h523339387e436e5e1e3c2d4d243f4c5c:
+
+Prenota una sala o un’attrezzatura
+==================================
+
+\ |IMG11|\ 
+
+Dopo aver individuata la sala o l’attrezzatura di tuo interesse, clicca sul dettaglio della sala per verificare il calendario della disponibilità.
+
+\ |IMG12|\ 
+
 Cliccando uno dei giorni disponibili (indicati in verde sul calendario) si avvia la richiesta di prenotazione per il giorno indicato. Il sistema chiede l’inserimento dell’orario di utilizzo della sala, e poi si accede alla schermata di prenotazione.
+
+\ |IMG13|\ 
+
+\ |IMG14|\ 
 
 La schermata è divisa in sezioni:
 
@@ -55,14 +111,18 @@ La schermata è divisa in sezioni:
 Presentazione dell’attività
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Viene richiesto di specificare lo scopo dell’utilizzo del bene prenotato (ad esempio “presentazione libro”, “proiezione documentario”, e così via…)
+\ |IMG15|\ 
 
-Se è indicato un costo, viene chiesto di scegliere quale fascia di prezzo corrisponde allo status del cittadino che sta prenotando. Inoltre, il cittadino può scegliere per quale associazione (tra quelle censite nel sistema) sta effettuando la prenotazione, e può specificare quali saranno i destinatari, ovvero i soggetti che utilizzano lo spazio o l'attrezzatura.
+Viene richiesto di specificare lo \ |STYLE7|\  del bene prenotato (ad esempio “presentazione libro”, “proiezione documentario”, e così via…)
+
+Se è indicato un \ |STYLE8|\ , viene chiesto di scegliere quale fascia di prezzo corrisponde allo status del cittadino che sta prenotando. Inoltre, il cittadino può scegliere per quale \ |STYLE9|\  (tra quelle censite nel sistema) sta effettuando la prenotazione, e può specificare quali saranno i \ |STYLE10|\ , ovvero i soggetti che utilizzano lo spazio o l'attrezzatura.
 
 .. _h57693c1886e5116214f1a6d87f2627:
 
 Comunicazione e patrocinio
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+\ |IMG16|\ 
 
 In questa sezione, se attiva, è possibile richiedere all’ente gestore di sale e attrezzatura il patrocinio per l’evento che si sta organizzando (e per il quale si sta prenotando). Inoltre si possono richiedere (se offerti dall’ente) i servizi di comunicazione e promozione del proprio evento.
 
@@ -71,46 +131,121 @@ In questa sezione, se attiva, è possibile richiedere all’ente gestore di sale
 Aggiungi date
 ~~~~~~~~~~~~~
 
-In questa sezione è possibile aggiungere date aggiuntive alla prenotazione (tenendo fisso l’orario), utile per prenotazioni di date multiple.
+\ |IMG17|\ 
 
-\ |IMG4|\ 
+In questa sezione è possibile aggiungere date aggiuntive alla prenotazione (tenendo fisso l’orario), utile per prenotazioni di date multiple.
 
 Una volta terminata la prenotazione, il sistema presenta un riepilogo. La prenotazione è in stato “in attesa di approvazione”. Una notifica viene inviata al responsabile della sala (o attrezzatura), il quale si occuperà di verificare i dati inseriti, valutare l’idoneità della prenotazione, e accettarla o rifiutarla. Tutti i passaggi della pratica di prenotazione (Iter della richiesta) sono visibili al cittadino, che in ogni momento può verificarne lo stato.
 
-\ |IMG5|\ 
+\ |IMG18|\ 
 
-.. _h45163113a121223f196b5e4a343558:
+.. _h48137283e1077282118a163c363e3:
 
-Verifica delle proprie prenotazioni
-===================================
+Verifica le tue prenotazioni
+============================
 
-In ogni momento, un utente può verificare lo stato di tutte le proprie prenotazioni dalla sezione “le mie prenotazioni” (1). Lì sono visibili tutte le prenotazioni effettuate dall’utente, con i dettagli sulle date e sullo stato (2). Cliccando sull’id (numero identificativo) della prenotazione, si accede ai dettagli della prenotazione stessa.
+In ogni momento, puoi verificare lo stato di tutte le proprie prenotazioni dalla sezione “Le mie prenotazioni” (1). Qui sono visibili tutte le prenotazioni da te effettuate, con i dettagli sulle date e sullo stato (2). Cliccando sull’id (numero identificativo) della prenotazione, puoi accedere ai dettagli della prenotazione stessa.
 
-\ |IMG6|\ 
+\ |IMG19|\ 
 
 
 .. bottom of content
 
-.. |IMG1| image:: static/Manuale_per_i_cittadini_1.png
-   :height: 76 px
-   :width: 624 px
 
-.. |IMG2| image:: static/Manuale_per_i_cittadini_2.png
+.. |STYLE0| replace:: **Lista.**
+
+.. |STYLE1| replace:: **Mappa.**
+
+.. |STYLE2| replace:: *Le sale pubbliche mostrate sulla mappa*
+
+.. |STYLE3| replace:: **disponibilità**
+
+.. |STYLE4| replace:: **destinazione d’uso**
+
+.. |STYLE5| replace:: **lista**
+
+.. |STYLE6| replace:: *Le sale pubbliche mostrate in una lista*
+
+.. |STYLE7| replace:: **scopo dell’utilizzo**
+
+.. |STYLE8| replace:: **costo**
+
+.. |STYLE9| replace:: **associazione**
+
+.. |STYLE10| replace:: **destinatari**
+
+.. |IMG1| image:: static/Manuale_per_i_cittadini_1.png
    :height: 268 px
    :width: 498 px
 
+.. |IMG2| image:: static/Manuale_per_i_cittadini_2.png
+   :height: 90 px
+   :width: 520 px
+
 .. |IMG3| image:: static/Manuale_per_i_cittadini_3.png
+   :height: 388 px
+   :width: 536 px
+
+.. |IMG4| image:: static/Manuale_per_i_cittadini_4.png
+   :height: 408 px
+   :width: 538 px
+
+.. |IMG5| image:: static/Manuale_per_i_cittadini_5.png
+   :height: 96 px
+   :width: 624 px
+
+.. |IMG6| image:: static/Manuale_per_i_cittadini_6.png
+   :height: 73 px
+   :width: 520 px
+
+.. |IMG7| image:: static/Manuale_per_i_cittadini_7.png
+   :height: 316 px
+   :width: 624 px
+
+.. |IMG8| image:: static/Manuale_per_i_cittadini_8.png
+   :height: 448 px
+   :width: 380 px
+
+.. |IMG9| image:: static/Manuale_per_i_cittadini_9.png
+   :height: 398 px
+   :width: 544 px
+
+.. |IMG10| image:: static/Manuale_per_i_cittadini_10.png
+   :height: 172 px
+   :width: 624 px
+
+.. |IMG11| image:: static/Manuale_per_i_cittadini_11.png
+   :height: 468 px
+   :width: 573 px
+
+.. |IMG12| image:: static/Manuale_per_i_cittadini_12.png
    :height: 505 px
    :width: 460 px
 
-.. |IMG4| image:: static/Manuale_per_i_cittadini_4.png
-   :height: 818 px
-   :width: 449 px
+.. |IMG13| image:: static/Manuale_per_i_cittadini_13.png
+   :height: 236 px
+   :width: 590 px
 
-.. |IMG5| image:: static/Manuale_per_i_cittadini_5.png
+.. |IMG14| image:: static/Manuale_per_i_cittadini_14.png
+   :height: 376 px
+   :width: 570 px
+
+.. |IMG15| image:: static/Manuale_per_i_cittadini_15.png
+   :height: 672 px
+   :width: 624 px
+
+.. |IMG16| image:: static/Manuale_per_i_cittadini_16.png
+   :height: 137 px
+   :width: 624 px
+
+.. |IMG17| image:: static/Manuale_per_i_cittadini_17.png
+   :height: 110 px
+   :width: 624 px
+
+.. |IMG18| image:: static/Manuale_per_i_cittadini_18.png
    :height: 497 px
    :width: 508 px
 
-.. |IMG6| image:: static/Manuale_per_i_cittadini_6.png
+.. |IMG19| image:: static/Manuale_per_i_cittadini_19.png
    :height: 202 px
    :width: 624 px
