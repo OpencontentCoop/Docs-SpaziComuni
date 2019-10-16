@@ -1,4 +1,29 @@
 
+.. _h2c1d74277104e41780968148427e:
+
+
+
+
+| `Manuale per l’amministratore <#h483207ea7c2a7b1717417f627b5f57>`_
+|     `Accedi al sistema <#h4415848433f221aec1a14347f613e>`_
+|     `Configura il sistema <#h3d4fe431c28145ab79347f3f154058>`_
+|     `Inserisci un nuovo operatore <#h4624604f30616d558646d314b39751b>`_
+|     `Inserisci una nuova sala <#h5a455a2e7f1e7f524a17011747d2f32>`_
+|     `Inserisci una nuova attrezzatura <#h34f6c1c193b466a454b7d47777c6157>`_
+|     `Definisci l’operatore responsabile della prenotazione <#h595130155832e6b542c15684776397d>`_
+|     `Modifica le informazioni relative a una sala pubblica o a un’attrezzatura <#h71786b784f4e6b6a51685f4c5db3b31>`_
+|     `Elimina una sala pubblica o un’attrezzatura <#h1a753218553b517e2c6e132e34f4840>`_
+
+.. _h2c1d74277104e41780968148427e:
+
+
+
+
+.. _h2c1d74277104e41780968148427e:
+
+
+
+
 .. _h483207ea7c2a7b1717417f627b5f57:
 
 Manuale per l’amministratore
@@ -136,6 +161,7 @@ Per eliminare una sala pubblica, seleziona dal menu in alto a destra la voce \ |
 Individua nell’elenco la sala che desideri modificare e clicca sul pulsante \ |STYLE28|\ .\ |IMG12|\ 
 
 Per eliminare invece un’\ |STYLE29|\  già inserita, segui lo stesso procedimento, selezionando però dal menù di destra la voce “Attrezzatura”.
+
 
 .. bottom of content
 
