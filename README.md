@@ -2,4 +2,4 @@
 
 Questo repository contiene la documentazione relativa a [SpaziComuni](https://www.opencontent.it/Per-la-PA/SpaziComuni). 
 
-La documentazione è pubblicata su ReadTehDocs: [Manuale SpaziComuni](http://manuale-spazicomuni.readthedocs.io/)
+La documentazione è pubblicata su ReadTheDocs: [Manuale SpaziComuni](http://manuale-spazicomuni.readthedocs.io/)
