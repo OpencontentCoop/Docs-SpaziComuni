@@ -2,7 +2,7 @@
 .. _h766e223b2e196b6445512714457612d:
 
 Manuale SpaziComuni
-*******************
+###################
 
 \ |LINK1|\  è un \ |STYLE0|\  di \ |STYLE1|\  (basato sulla piattaforma Open Source eZ Publish) orientato alla strutturazione dei dati. 
 
